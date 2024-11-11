@@ -3,7 +3,7 @@
     <version>1</version>
 
     <category title="Added Icons" />
-    <item drawable="browser " />
+    <item drawable="browser" />
     <item drawable="settings" />
     <item drawable="calculator" />
     <item drawable="camera" />
