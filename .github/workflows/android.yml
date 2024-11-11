@@ -1,11 +1,10 @@
 name: Android CI
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+  release:
+    types: [ published ]
+  workflow_dispatch:
+    
 jobs:
   build:
 
@@ -24,3 +23,7 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew clean :app:assembleRelease --stacktrace
+    - uses: actions/upload-artifact@master
+      with:
+        name: Release APK
+        path: app/build/outputs/apk/release

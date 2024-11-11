@@ -19,5 +19,6 @@
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
 
     <item component="ComponentInfo{some.app.sample/some.app.sample.MainActivity}" drawable="some_app" />
+    <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="browser" />
 
 </resources>
