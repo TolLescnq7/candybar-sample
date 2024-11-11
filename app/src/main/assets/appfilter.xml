@@ -20,5 +20,8 @@
 
     <item component="ComponentInfo{some.app.sample/some.app.sample.MainActivity}" drawable="some_app" />
     <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="browser" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="some_app" />
 
 </resources>

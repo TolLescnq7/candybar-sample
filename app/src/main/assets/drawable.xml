@@ -2,18 +2,11 @@
 <resources>
     <version>1</version>
 
-    <category title="Group 1" />
-    <item drawable="icon_1" />
-    <item drawable="icon_2" />
-    <item drawable="icon_3" />
-    <item drawable="icon_4" />
+    <category title="Added Icons" />
+    <item drawable="browser " />
+    <item drawable="settings" />
+    <item drawable="calculator" />
+    <item drawable="camera" />
     <item drawable="icon_5" />
-
-    <category title="Group 2" />
-    <item drawable="icon_6" />
-    <item drawable="icon_7" />
-    <item drawable="icon_8" />
-    <item drawable="icon_9" />
-    <item drawable="icon_10" />
-
+    
 </resources>
