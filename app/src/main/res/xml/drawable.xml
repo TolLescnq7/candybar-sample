@@ -8,5 +8,8 @@
     <item drawable="calculator" />
     <item drawable="camera" />
     <item drawable="recorder" />
+    <item drawable="facebook" />
+    <item drawable="files" />
+    <item drawable="youtube" />
     
 </resources>

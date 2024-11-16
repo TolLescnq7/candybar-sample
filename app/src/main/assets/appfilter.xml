@@ -24,5 +24,7 @@
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera" />
     <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="recorder" />
-
+    <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="youtube" />
+    <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook" />
+    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="files" />
 </resources>
