@@ -6,6 +6,6 @@
     <color name="shortcutIconBackground">#26C484</color>
     <color name="shortcutIconForeground">#FFF</color>
     <!-- Themed Icons -->
-    <color name="themedIconBG">@android:color/system_accent1_100</color>
-    <color name="themedIconFG">@android:color/system_accent1_700</color>
+    <color name="themedIconBg">@android:color/system_accent1_100</color>
+    <color name="themedIconFg">@android:color/system_accent1_700</color>
 </resources>
