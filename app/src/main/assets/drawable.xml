@@ -3,13 +3,22 @@
     <version>1</version>
 
     <category title="Added Icons" />
-    <item drawable="browser" />
+    <item drawable="chrome" />
     <item drawable="settings" />
-    <item drawable="calculator" />
-    <item drawable="camera" />
-    <item drawable="recorder" />
+    <item drawable="google_calculator" />
+    <item drawable="samsung_camera" />
+    <item drawable="google_recorder" />
     <item drawable="facebook" />
-    <item drawable="files" />
+    <item drawable="google_files" />
     <item drawable="youtube" />
-    
+    <item drawable="pixel_camera" />
+    <item drawable="google_messages" />
+    <item drawable="google_phone" />
+    <item drawable="google_contacts" />
+    <item drawable="samsung_camera" />
+    <item drawable="mix" />
+    <item drawable="via" />
+    <item drawable="google_play_store" />
+    <item drawable="innertune" />
+    <item drawable="google_photos" />
 </resources>
