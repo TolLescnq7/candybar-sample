@@ -21,4 +21,6 @@
     <item drawable="google_play_store" />
     <item drawable="innertune" />
     <item drawable="google_photos" />
+    <item drawable="spotify" />
+    <item drawable="messenger" />
 </resources>
