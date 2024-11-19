@@ -23,8 +23,9 @@
     <item drawable="google_photos" />
     <item drawable="spotify" />
     <item drawable="messenger" />
-     <item drawable="git" />
+    <item drawable="git" />
     <item drawable="galaxy_store" />
     <item drawable="my_files" />
     <item drawable="files" />
+    <item drawable="apktool_m" />
 </resources>

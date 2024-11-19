@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Apktool M – https://maximoff.su/apktool -->
 <vector
     android:tint="@color/themedIconFg"
-    android:height="24.0dip"
-    android:width="24.0dip"
-    android:viewportWidth="24.0"
-    android:viewportHeight="24.0"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:aapt="http://schemas.android.com/aapt">
-    <path
-        android:fillColor="#ffffffff"
-        android:pathData="M16.5,8.5H12L10.8,7H7.5C6.7,7 6,7.7 6,8.5v7C6,16.3 6.7,17 7.5,17h9c0.8,0 1.5,-0.7 1.5,-1.5V10C18,9.2 17.3,8.5 16.5,8.5z" />
-        android:fillAlpha="0.1" />
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:height="108.0dp"
+	android:width="108.0dp"
+	android:viewportHeight="108.0"
+	android:viewportWidth="108.0">
+	<path
+		android:fillColor="#FFFFFFFF"
+		android:strokeColor="#FFFFFFFF"
+		android:strokeWidth="1"
+		android:pathData="M36.5,36.0,L 45.5 36.0 Q 51.0 35.0 52.0 38.5 L 53.5 41.0 L 66.5 41.0 Q 71.9 40.1 74.0 42.5 L 75.0 50.5 L 75.0 68.5 L 73.5 71.0 Q 70.3 73.3 63.5 72.0 L 36.5 72.0 L 34.0 70.5 L 33.0 61.5 L 33.0 39.5 L 34.5 37.0 L 36.5 36.0 Z" />
 </vector>
