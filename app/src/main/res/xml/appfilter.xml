@@ -39,5 +39,9 @@
     <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="samsung_gallery" />
     <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
     <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
-    <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify" />
+    <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify" />    	
+    <item component="ComponentInfo{com.manichord.mgit/com.manichord.mgit.repolist.RepoListActivity}" drawable="git" />
+    <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_store" />
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="my_files" />
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
 </resources>
