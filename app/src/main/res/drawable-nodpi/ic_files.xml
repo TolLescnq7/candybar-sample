@@ -3,13 +3,11 @@
 <vector
     android:tint="@color/themedIconFg"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	android:height="108.0dp"
-	android:width="108.0dp"
-	android:viewportHeight="108.0"
-	android:viewportWidth="108.0">
+	android:width="108dp"
+	android:height="108dp"
+	android:viewportWidth="108"
+	android:viewportHeight="108">
 	<path
-		android:fillColor="#FFFFFFFF"
-		android:strokeColor="#FFFFFFFF"
-		android:strokeWidth="1"
-		android:pathData="M36.5,36.0,L 45.5 36.0 Q 51.0 35.0 52.0 38.5 L 53.5 41.0 L 66.5 41.0 Q 71.9 40.1 74.0 42.5 L 75.0 50.5 L 75.0 68.5 L 73.5 71.0 Q 70.3 73.3 63.5 72.0 L 36.5 72.0 L 34.0 70.5 L 33.0 61.5 L 33.0 39.5 L 34.5 37.0 L 36.5 36.0 Z" />
+		android:fillColor="#ffffffff"
+		android:pathData="M63.75 36.75H48L43.8 31.5H32.25C29.45 31.5 27 33.95 27 36.75V61.25C27 64.05 29.45 66.5 32.25 66.5H63.75C66.55 66.5 69 64.05 69 61.25V42C69 39.2 66.55 36.75 63.75 36.75Z" />
 </vector>
