@@ -28,4 +28,5 @@
     <item drawable="my_files" />
     <item drawable="files" />
     <item drawable="apktool_m" />
+    <item drawable="google_play_games" />
 </resources>
