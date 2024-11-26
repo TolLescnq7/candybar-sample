@@ -47,4 +47,10 @@
     <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktool_m" />
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="google_play_games" />
     <item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox" />
+    <item component="ComponentInfo{com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor}" drawable="mobile_legends" />
+    <item component="ComponentInfo{com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="samsung_email" />
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="samsung_phone" />
+    <item component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="samsung_contacts" />
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="samsung_messages" />
 </resources>

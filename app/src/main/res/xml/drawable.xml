@@ -30,4 +30,10 @@
     <item drawable="apktool_m" />
     <item drawable="google_play_games" />
     <item drawable="roblox" />
+    <item drawable="samsung_contacts" />
+    <item drawable="samsung_messages" />
+    <item drawable="samsung_phone" />
+    <item drawable="samsung_email" />
+    <item drawable="device_care" />
+    <item drawable="mobile_legends" />
 </resources>
