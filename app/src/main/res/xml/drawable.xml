@@ -36,4 +36,10 @@
     <item drawable="samsung_email" />
     <item drawable="device_care" />
     <item drawable="mobile_legends" />
+    <item drawable="samsung_internet" />
+    <item drawable="google" />
+    <item drawable="google_drive" />
+    <item drawable="gmail" />
+    <item drawable="zarchiver" />
+    <item drawable="shizuku" />
 </resources>

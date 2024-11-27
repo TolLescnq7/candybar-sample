@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <vector
-    android:tint="@color/themedIconFg"
+    android:tint="@color/iconForeground"
     android:height="90.0dip"
     android:width="90.0dip"
     android:viewportWidth="90.0"
