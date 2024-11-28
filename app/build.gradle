@@ -56,6 +56,8 @@ dependencies {
     //implementation 'com.onesignal:OneSignal:[5.0.0, 5.99.99]'
 }
 
+// Code for automatically copying appfilter.xml and drawable.xml
+// from `res/xml` directory to `assets` directory
 tasks.register('copyXMLs') {
     ['appfilter.xml', 'drawable.xml'].each { file ->
         copy {
