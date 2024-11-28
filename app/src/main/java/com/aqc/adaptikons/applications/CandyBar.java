@@ -5,7 +5,7 @@ import androidx.annotation.NonNull;
 // TODO: Remove `//` below to enable OneSignal
 //import com.onesignal.OneSignal;
 
-import com.aqc.adaptikons;
+import com.aqc.adaptikons.R;
 
 import candybar.lib.applications.CandyBarApplication;
 
@@ -24,7 +24,7 @@ public class CandyBar extends CandyBarApplication {
     @NonNull
     @Override
     public Class<?> getDrawableClass() {
-        return drawable.class;
+        return R.drawable.class;
     }
 
     @NonNull
