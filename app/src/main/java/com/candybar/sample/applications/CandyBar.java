@@ -1,11 +1,11 @@
-package com.candybar.sample.applications;
+package com.aqc.adaptikons.applications;
 
 import androidx.annotation.NonNull;
 
 // TODO: Remove `//` below to enable OneSignal
 //import com.onesignal.OneSignal;
 
-import com.candybar.sample.R;
+import com.aqc.adaptikons.R;
 
 import candybar.lib.applications.CandyBarApplication;
 
@@ -49,4 +49,5 @@ public class CandyBar extends CandyBarApplication {
 
         return configuration;
     }
+}
 }

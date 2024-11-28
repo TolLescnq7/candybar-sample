@@ -1,4 +1,4 @@
-package com.candybar.sample.licenses;
+package com.aqc.adaptikons.licenses;
 
 import candybar.lib.items.InAppBilling;
 
@@ -106,4 +106,4 @@ public class License {
         return productId;
     }
 
-}
+}}

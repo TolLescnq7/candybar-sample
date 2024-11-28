@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     compileSdk rootProject.ext.CompileSdk
 
-    namespace 'com.candybar.sample'
+    namespace 'com.aqc.adaptikons'
 
     defaultConfig {
-        applicationId 'com.candybar.sample'
+        applicationId 'com.aqc.adaptikons'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1
@@ -71,4 +71,5 @@ tasks.configureEach { task ->
     if (task.name == 'assembleDebug' || task.name == 'assembleRelease') {
         task.dependsOn copyXMLs
     }
+}
 }
