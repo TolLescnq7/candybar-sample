@@ -24,7 +24,7 @@ public class CandyBar extends CandyBarApplication {
     @NonNull
     @Override
     public Class<?> getDrawableClass() {
-        return R.drawable.class;
+        return drawable.class;
     }
 
     @NonNull
