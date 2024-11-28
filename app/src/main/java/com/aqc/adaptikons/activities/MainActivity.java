@@ -1,10 +1,10 @@
-package com.candybar.sample.activities;
+package com.aqc.adaptikons.activities;
 
 import androidx.annotation.NonNull;
 
 import candybar.lib.activities.CandyBarMainActivity;
 
-import com.candybar.sample.licenses.License;
+import com.aqc.adaptikons.licenses.License;
 
 public class MainActivity extends CandyBarMainActivity {
 
@@ -18,4 +18,5 @@ public class MainActivity extends CandyBarMainActivity {
                 .setDonationProductsId(License.getDonationProductsId())
                 .setPremiumRequestProducts(License.getPremiumRequestProductsId(), License.getPremiumRequestProductsCount());
     }
+}
 }
