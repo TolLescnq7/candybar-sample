@@ -50,4 +50,3 @@ public class CandyBar extends CandyBarApplication {
         return configuration;
     }
 }
-}

@@ -19,4 +19,3 @@ public class MainActivity extends CandyBarMainActivity {
                 .setPremiumRequestProducts(License.getPremiumRequestProductsId(), License.getPremiumRequestProductsCount());
     }
 }
-}
