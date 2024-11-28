@@ -5,7 +5,7 @@ import androidx.annotation.NonNull;
 // TODO: Remove `//` below to enable OneSignal
 //import com.onesignal.OneSignal;
 
-import com.aqc.adaptikons.R;
+import com.aqc.adaptikons;
 
 import candybar.lib.applications.CandyBarApplication;
 
