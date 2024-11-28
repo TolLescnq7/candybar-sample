@@ -48,7 +48,7 @@
     <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="google_play_games" />
     <item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox" />
     <item component="ComponentInfo{com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor}" drawable="mobile_legends" />
-    <item component="ComponentInfo{com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
+    <item component="ComponentInfo{com.samsung.android.lool/qcom.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
     <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="samsung_email" />
     <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="samsung_phone" />
     <item component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="samsung_contacts" />
@@ -58,5 +58,5 @@
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
     <item component="ComponentInfo{ru.zdevs.zarchive/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
-    <item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="samsung_calculator" />
 </resources>
