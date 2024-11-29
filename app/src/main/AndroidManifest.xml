@@ -173,10 +173,11 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <!-- Support Material3 theming as found in M3 Icon Pack standard-->
+            <intent-filter>
                 <category android:name="org.icontheme.CHANGES_WITH_MATERIAL_YOU_COLORS" />
                 <category android:name="org.icontheme.CHANGES_WITH_DARK_MODE" />
             </intent-filter>
-            <!-- Lawnchair -->
+            <!-- Lawnchair Launcher 14 -->
             <intent-filter>
                 <action android:name="app.lawnchair.icons.THEMED_ICON" />
                 <category android:name="android.intent.category.DEFAULT" />
