@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Apktool M – https://maximoff.su/apktool -->
+<vector
+    android:tint="@color/iconForeground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:width="108dp"
+	android:height="108dp"
+	android:viewportWidth="108"
+	android:viewportHeight="108">
+	<path
+		android:fillColor="#ffffffff"
+		android:pathData="M39.5488 29L29 68.4419L68.4419 79L78.9907 39.5581L39.5488 29ZM49.9674 47.1116L60.9721 50.0605L58.0233 61.0651L47.0093 58.1163L49.9674 47.1116Z" />
+</vector>

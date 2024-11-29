@@ -18,13 +18,45 @@
     <item component=":SMS" drawable="messaging" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
 
-    <item component="ComponentInfo{some.app.sample/some.app.sample.MainActivity}" drawable="some_app" />
-    <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="browser" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="google_messages" />
+    <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="via" />
     <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
-    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
-    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera" />
-    <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="recorder" />
-    <item component="ComponentInfo{com.github.libretube/com.github.libretube.Default}" drawable="youtube" />
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="google_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="samsung_camera" />
+    <item component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}" drawable="google_recorder" />
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
     <item component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}" drawable="facebook" />
-    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="files" />
+    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mix" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files" />
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="google_contacts" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="google_phone" />
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store" />
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook" />
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraActivity}" drawable="pixel_camera" />
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos" />
+    <item component="ComponentInfo{com.zionhuang.music/com.zionhuang.music.MainActivity}" drawable="innertune" />
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="samsung_gallery" />
+    <item component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}" drawable="messenger" />
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="spotify" />
+    <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify" />    	
+    <item component="ComponentInfo{com.manichord.mgit/com.manichord.mgit.repolist.RepoListActivity}" drawable="git" />
+    <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_store" />
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="my_files" />
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
+    <item component="ComponentInfo{ru.maximoff.apktool/ru.maximoff.apktool.SplashActivity}" drawable="apktool_m" />
+    <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="google_play_games" />
+    <item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox" />
+    <item component="ComponentInfo{com.mobile.legends/com.moba.unityplugin.MobaGameMainActivityWithExtractor}" drawable="mobile_legends" />
+    <item component="ComponentInfo{com.samsung.android.lool/qcom.samsung.android.sm.score.ui.ScoreBoardActivity}" drawable="device_care" />
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="samsung_email" />
+    <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity}" drawable="samsung_phone" />
+    <item component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="samsung_contacts" />
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="samsung_messages" />
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.GoogleAppImplicitMainInfoGatewayInternal}" drawable="google" />
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
+    <item component="ComponentInfo{ru.zdevs.zarchive/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="samsung_calculator" />
 </resources>

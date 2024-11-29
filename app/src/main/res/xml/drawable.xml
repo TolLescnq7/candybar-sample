@@ -3,13 +3,44 @@
     <version>1</version>
 
     <category title="Added Icons" />
-    <item drawable="browser" />
+    <item drawable="chrome" />
     <item drawable="settings" />
-    <item drawable="calculator" />
-    <item drawable="camera" />
-    <item drawable="recorder" />
+    <item drawable="google_calculator" />
+    <item drawable="samsung_camera" />
+    <item drawable="google_recorder" />
     <item drawable="facebook" />
-    <item drawable="files" />
+    <item drawable="google_files" />
     <item drawable="youtube" />
-    
+    <item drawable="pixel_camera" />
+    <item drawable="google_messages" />
+    <item drawable="google_phone" />
+    <item drawable="google_contacts" />
+    <item drawable="samsung_gallery" />
+    <item drawable="mix" />
+    <item drawable="via" />
+    <item drawable="google_play_store" />
+    <item drawable="innertune" />
+    <item drawable="google_photos" />
+    <item drawable="spotify" />
+    <item drawable="messenger" />
+    <item drawable="git" />
+    <item drawable="galaxy_store" />
+    <item drawable="my_files" />
+    <item drawable="files" />
+    <item drawable="apktool_m" />
+    <item drawable="google_play_games" />
+    <item drawable="roblox" />
+    <item drawable="samsung_contacts" />
+    <item drawable="samsung_messages" />
+    <item drawable="samsung_phone" />
+    <item drawable="samsung_email" />
+    <item drawable="device_care" />
+    <item drawable="mobile_legends" />
+    <item drawable="samsung_internet" />
+    <item drawable="google" />
+    <item drawable="google_drive" />
+    <item drawable="gmail" />
+    <item drawable="zarchiver" />
+    <item drawable="shizuku" />
+    <item drawable="samsung_calculator" />
 </resources>
