@@ -3,6 +3,6 @@
     <!-- Splash Screen -->
     <color name="splashColor">#222222</color>
     <!-- Themed Icons -->
-    <color name="iconBackground">@android:color/system_accent2_800</color>
-    <color name="iconForeground">@android:color/system_accent1_200</color>
+    <color name="iconBackground">#273041</color>
+    <color name="iconForeground">#A7C8FE/color>
 </resources>
