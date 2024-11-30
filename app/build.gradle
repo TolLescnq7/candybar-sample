@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     compileSdk rootProject.ext.CompileSdk
 
-    namespace 'com.aqc.adaptikons'
+    namespace 'com.aqc.adaptikons.one'
 
     defaultConfig {
-        applicationId 'com.aqc.adaptikons'
+        applicationId 'com.aqc.adaptikons.one'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 111

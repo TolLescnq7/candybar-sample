@@ -1,4 +1,4 @@
-package com.aqc.adaptikons.services;
+package com.aqc.adaptikons.one.services;
 
 import candybar.lib.services.CandyBarWidgetService;
 

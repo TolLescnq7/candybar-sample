@@ -1,4 +1,4 @@
-package com.aqc.adaptikons.licenses;
+package com.aqc.adaptikons.one.licenses;
 
 import candybar.lib.items.InAppBilling;
 

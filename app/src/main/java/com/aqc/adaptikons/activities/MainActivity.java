@@ -1,10 +1,10 @@
-package com.aqc.adaptikons.activities;
+package com.aqc.adaptikons.one.activities;
 
 import androidx.annotation.NonNull;
 
 import candybar.lib.activities.CandyBarMainActivity;
 
-import com.aqc.adaptikons.licenses.License;
+import com.aqc.adaptikons.one.licenses.License;
 
 public class MainActivity extends CandyBarMainActivity {
 
