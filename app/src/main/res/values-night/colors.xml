@@ -4,5 +4,5 @@
     <color name="splashColor">#222222</color>
     <!-- Themed Icons -->
     <color name="iconBackground">#273041</color>
-    <color name="iconForeground">#A7C8FE/color>
+    <color name="iconForeground">#A7C8FE</color>
 </resources>
