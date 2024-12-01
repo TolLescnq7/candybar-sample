@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Apktool M – https://maximoff.su/apktool -->
 <vector
-    android:tint="@color/iconForeground"
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	android:width="108dp"
-	android:height="108dp"
-	android:viewportWidth="108"
-	android:viewportHeight="108">
+	android:width="90dp"
+	android:height="90dp"
+	android:viewportWidth="90"
+	android:viewportHeight="90">
 	<path
 		android:fillColor="#ffffffff"
-		android:pathData="M54 58.56V49.632H76.464C76.8 51.144 77.064 52.56 77.064 54.552C77.064 68.256 67.872 78 54.024 78C40.752 78 30 67.248 30 54C30 40.752 40.752 30 54 30C60.48 30 65.904 32.376 70.056 36.264L63.24 42.888C61.512 41.256 58.512 39.312 54 39.312C46.056 39.312 39.576 45.912 39.576 54C39.576 62.088 46.056 68.688 54 68.688C63.192 68.688 66.576 62.328 67.2 58.56H54Z" />
+		android:pathData="M45.5 47.635V41.497H60.944C61.175 42.5365 61.3565 43.51 61.3565 44.8795C61.3565 54.301 55.037 61 45.5165 61C36.392 61 29 53.608 29 44.5C29 35.392 36.392 28 45.5 28C49.955 28 53.684 29.6335 56.5385 32.3065L51.8525 36.8605C50.6645 35.7385 48.602 34.402 45.5 34.402C40.0385 34.402 35.5835 38.9395 35.5835 44.5C35.5835 50.0605 40.0385 54.598 45.5 54.598C51.8195 54.598 54.146 50.2255 54.575 47.635H45.5Z" />
 </vector>
