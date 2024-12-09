@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Apktool M – https://maximoff.su/apktool -->
 <vector
+    android:tint="@color/iconForeground"
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:width="90dp"
 	android:height="90dp"

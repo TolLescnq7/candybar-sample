@@ -57,6 +57,13 @@
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail" />
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
-    <item component="ComponentInfo{ru.zdevs.zarchive/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
+    <item component="ComponentInfo{ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver}" drawable="zarchiver" />
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="samsung_calculator" />
+    <item component="ComponentInfo{com.google.android.videos/com.google.android.videos.GoogleTvEntryPoint}" drawable="google_tv" />
+    <item component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}" drawable="shizuku" />
+    <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="samsung_recorder" />
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.instagram.lite/com.facebook.lite.MainActivity}" drawable="instagram" />
+    <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube_music" />
+    <item component="ComponentInfo{}" drawable="" />
 </resources>

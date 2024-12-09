@@ -25,7 +25,7 @@
     <item drawable="messenger" />
     <item drawable="git" />
     <item drawable="galaxy_store" />
-    <item drawable="my_files" />
+    <item drawable="samsung_my_files" />
     <item drawable="files" />
     <item drawable="apktool_m" />
     <item drawable="google_play_games" />
@@ -43,4 +43,10 @@
     <item drawable="zarchiver" />
     <item drawable="shizuku" />
     <item drawable="samsung_calculator" />
+    <item drawable="instagram" />
+    <item drawable="gemini" />
+    <item drawable="google_tv" />
+    <item drawable="samsung_music" />
+    <item drawable="samsung_recorder" />
+    <item drawable="youtube_music" />
 </resources>
